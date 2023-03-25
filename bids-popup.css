@@ -1,0 +1,69 @@
+/* 
+    Document   : bids-popup
+    Created on : 21.02.2011, 18:38:06
+    Author     : yaroslav.onischenkp
+    Description: Stylesheet for order bids popup
+*/
+.winn_bid {
+	background:url(/res/img/wr-profile/ew/bids/bkg_winn_bid.gif) repeat-x;
+	}
+a.butt_place_bid {
+	background:url(/res/img/wr-profile/ew/bids/butt_place_bid.png) no-repeat;
+	}
+a.butt_del_bid {
+	background:url(/res/img/wr-profile/ew/bids/butt_del_bid.png) no-repeat;
+	}
+.bids-popup-container p.wb_winning {
+	color:#48ce13;
+	}
+a.butt_take_order {
+	background:url(/res/img/wr-profile/ew/bids/butt_take_order_pop.png) no-repeat;
+	}
+a.butt_refuse_order {
+	background:url(/res/img/wr-profile/ew/bids/butt_refuse_order.png) no-repeat;
+	}
+.last_bid .accepted {
+	color:#48ce13;
+	}
+.last_bid .declined {
+	color:#ce4c13;
+	}
+.no_bids {
+	color:#ce4c13;
+	}
+.bid_toggle {
+	background:url(/res/img/wr-profile/ew/bids/bid_toggle.gif) repeat-x;
+	border-bottom:solid 1px #f4f4f4;
+	}
+
+a.butt_cancel {
+	background:url(/res/img/wr-profile/ew/bids/butt_cancel.png) no-repeat;
+	}
+.btd_titles {
+	color:#a6a6a6;
+	}
+a.butt_ok {
+	background:url(/res/img/wr-profile/ew/bids/butt_ok.png) no-repeat;
+	}
+.ti_up {
+	background:url(/res/img/wr-profile/ew/bids/time_inp_up.gif) no-repeat;
+}
+.ti_down {
+	background:url(/res/img/wr-profile/ew/bids//time_inp_down.gif) no-repeat;
+}
+.bid_activated div.bid-loader {
+	background: url(/res/img/icons/ajax-loader.gif) center no-repeat;
+}
+a.butt_rebid {
+	background:url(/res/img/wr-profile/ew/orders/butt_rebid.png) no-repeat;
+	}
+a.butt_makebid {
+	background:url(/res/img/wr-profile/ew/orders/butt_makebid.png) no-repeat;
+	}
+a.butt_youwin {
+	background:url(/res/img/wr-profile/ew/orders/butt_you_win.png) no-repeat;
+	}
+.filter_time div {
+	border:solid 1px #b5b5b5;
+	background-color:#fff;
+}

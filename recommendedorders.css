@@ -1,0 +1,59 @@
+.recomOrderBlock {
+	position: relative;
+	width: 545px;
+	margin: 10px 0 0;
+	padding: 10px 4px 4px;
+	border: 1px solid #f0edc5;
+	border-radius: 3px;
+	background: #fffde3;
+	box-sizing: content-box;
+}
+	.titleROB {
+		margin: 0;
+		padding: 0;
+		font: bold 18px/1em arial, sans-serif;
+		color: #b92a2a;
+		text-align: center;
+		text-transform: uppercase;
+	}
+	.recOrderItemStamp {
+		display: block;
+		position: absolute;
+		top: 5px;
+		right: 5px;
+	}
+    .highPriorityStamp {
+		display: block;
+		position: absolute;
+		top: 15px;
+		right: 25px;
+    }
+	.recOrderItem {
+		position: relative;
+		width: 545px;
+		min-height: 68px;
+		margin: 10px 0 0;
+		padding: 0;
+		border-radius: 3px;
+		background: #feefb1;
+	}
+	.recOrderItem.open {
+		border-radius: 3px 3px 0 0;
+	}
+
+	.recOrderItem + .availibleOrders {
+		display: none;
+		background: #fff;
+		width: 524px;
+		margin: 0 !important;
+	}	
+	.recOrderItem.open + .availibleOrders {
+		display: block;
+	}
+
+
+.recOrderItem .clip { position:absolute; top:-4px; right:7px; background:url(/res/img/wr/clip0000.gif) no-repeat; width:23px; height:37px;}
+.recOrderItem .topicSlide {position:relative; margin:0px 0px 3px;}
+.recOrderItem .topicSlide  span {position:absolute; top:7px; left:10px; color:#333; font:normal 14px Arial, Helvetica, sans-serif;}
+.recOrderItem .topicSlide h2 { position:absolute; width:500px; top:7px; left:42px; margin:0px; padding:0px;}
+.recOrderItem .topicSlide h2 a {color:#297ca6; margin:0px 0px 0px 10px; font:bold 14px Arial, Helvetica, sans-serif; text-decoration:none; display: block;}

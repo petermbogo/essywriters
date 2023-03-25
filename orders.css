@@ -1,0 +1,196 @@
+.butt1_right {
+	background:url(/res/img/wr-profile/ew/orders/butt1_left.png) no-repeat;
+}
+
+.product {
+	border-bottom:solid 1px #9a9a9b;
+	color:#808080;
+}
+.pt_mask {
+	background:url(/res/img/wr-profile/ew/orders/pt_top_mask.png) no-repeat;
+}
+.code {
+	color:#808080;
+}
+.code strong {
+	color:#404040;
+}
+.product_info {
+	background-color:#D6ECFF;
+}
+.product_info th {
+	color:#a6a6a6;
+}
+.product_info th.pi_qty {
+	color:#404040;
+}
+.product_info td span {
+	color:#808080;
+}
+.product_desc {
+	border:solid 1px #ededed;
+}
+a.eye_open {
+	background:url(/res/img/wr-profile/ew/orders/butt_eye_open.png) no-repeat;
+}
+a.eye_close {
+	background:url(/res/img/wr-profile/ew/orders/butt_eye_close.png) no-repeat;
+}
+a.pt_del {
+	background:url(/res/img/wr-profile/ew/orders/del.gif) no-repeat;
+}
+.returned {
+	color:#297CA6;
+}
+.pt_price {
+	color:#999;
+}
+.full .pt_price {
+	color:#48ce13;
+}
+.pop_butt {
+	background:url(/res/img/wr-profile/ew/orders/filter_pop_butt_bkg.png) no-repeat;
+}
+.pop_butt a {
+	background:url(/res/img/wr-profile/ew/orders/filter_pop_butt.png) no-repeat;
+}
+.paginator_pages {
+	color:#808080;
+}
+.paginator_pages strong {
+	color:#404040;
+}
+.sl_cont {
+	background:url(/res/img/wr-profile/ew/orders/sort_left_bkg.gif) no-repeat left top;
+	border-right:solid 1px #ededed;
+}
+.sort_left strong {
+	color:#0090d9;
+}
+.sort_left a.sort_down {
+	background:url(/res/img/wr-profile/ew/orders/arrow_sort_down.gif) 0px 5px no-repeat;
+}
+.sort_left a.sort_up {
+	background:url(/res/img/wr-profile/ew/orders/arrow_sort_up.gif) 0px 5px no-repeat;
+}
+.sort_right {
+	background:url(/res/img/wr-profile/ew/orders/sort_right_bkg.gif) no-repeat right top;
+	border-left:solid 1px #ededed;
+}
+.sort_right a.active {
+	color: #000;
+}
+a.back {
+	background:url(/res/img/wr-profile/ew/orders/butt_back.png) no-repeat;
+}
+.pft_menu {
+	border:solid 1px #ededed;
+}
+a.butt_problem {
+	background:url(/res/img/wr-profile/ew/orders/butt_problem.png) no-repeat;
+}
+a.butt_upload {
+	background:url(/res/img/wr-profile/ew/orders/butt_upload.png) no-repeat;
+}
+a.butt_request {
+	background:url(/res/img/wr-profile/ew/orders/butt_request.png) no-repeat;
+}
+a.butt_send_order {
+	background:url(/res/img/wr-profile/ew/orders/butt_send_order.png) no-repeat;
+}
+.your_files {
+	background-color:#f2f2f2;
+}
+.your_files ol {
+	color:#a6a6a6;
+}
+.your_files ol li span {
+	color:#404040;
+}
+.your_files ol li span a {
+	color:#404040;
+}
+.your_files ol li div {
+	background-color:#e6e6e6;
+}
+.your_files td {
+	color:#404040;
+}
+a.butt_takeorder {
+	background:url(/res/img/wr-profile/ew/orders/butt_take_order.png) no-repeat;
+}
+a.refuse_order_button {
+	background:url(/res/img/wr-profile/ew/orders/butt_refuse.gif) no-repeat;
+	color: #fff;
+}
+.pt_cont {
+	background:url(/res/img/wr-profile/ew/orders/pt_cont_left.gif) no-repeat left top;
+}
+.pt_cont_inner {
+	background:url(/res/img/wr-profile/ew/orders/pt_cont_right.gif) no-repeat right top;
+}
+.pt_block h3 {
+	color:#404040;
+}
+*html .pt_block div {
+	border:solid 1px #fff;
+}
+.pt_block td strong {
+	color:#404040;
+}
+.pt_block td strong span {
+	color:#808080;
+}
+.pt_block div.p_mask {
+	background:url(/res/img/wr-profile/ew/orders/mask_prod.png) no-repeat;
+}
+.popup {
+	background-color:#f8f8f8;
+	border:solid 1px #f1f1f1;
+	background: #FAFAFA; /* old browsers */
+	background: -moz-linear-gradient(top, #FAFAFA 0%, #EDEDED 100%); /* firefox */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FAFAFA), color-stop(100%,#EDEDED)); /* webkit */
+	-pie-background: linear-gradient(#FAFAFA, #EDEDED);
+	-webkit-box-shadow: 2px 2px 4px #adadad;
+	-moz-box-shadow: 2px 2px 4px #adadad;
+	box-shadow: 2px 2px 4px #adadad;
+}
+a.pop_del {
+	background:url(/res/img/icons/del3.gif) no-repeat;
+}
+.popup_sel label {
+	color:#949494;
+}
+.popup_sel select {
+	border:solid 1px #bababa;
+}
+.popup_ta {
+	background:url(/res/img/wr-profile/ew/orders/popup_ta.png) no-repeat;
+}
+a.butt_send {
+	background:url(/res/img/wr-profile/ew/orders/butt_send.png) no-repeat;
+}
+
+
+/*PAGINATION*/
+.paginator table td a {
+	color:#0090d9;
+	}
+.paginator .left span {
+	background:url(/res/img/wr-profile/wp/orders/butt_prev.png) no-repeat;
+}
+.paginator .left span a {
+	background:url(/res/img/wr-profile/wp/orders/butt_prev.png) no-repeat;
+}
+.paginator .right span {
+	background:url(/res/img/wr-profile/wp/orders/butt_next.png) no-repeat;
+}
+.paginator .right span a {
+	background:url(/res/img/wr-profile/wp/orders/butt_next.png) no-repeat;
+}
+.paginator .bottom, .paginator .bottom a { color:#004a79;}
+.paginator span {color:#404040;}
+.paginator span a {color:#636363;}
+.paginator .scroll_trough {background:#f2f2f2; }
+.paginator .scroll_thumb {background:#0090d9; }
+.paginator .current_page_mark {background:#55a6d9; }
